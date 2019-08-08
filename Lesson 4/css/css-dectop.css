@@ -1,0 +1,41 @@
+@media (max-width:768px){
+	#top {
+		width: 100%;
+		height: 7%;
+	}
+	#Homework {
+		font-size: small;
+	}
+	#mid{
+		width: 90%;
+		height: 60%;
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+	#newlist {
+		font-size: x-large;
+		margin-left: 10%;
+	}
+	p {
+		font-size: small;
+		margin-left: 11%;
+		margin-top: 50px;
+	}
+	#button {
+		width: 120px;
+		height: 35px;
+		padding: 5px 10px;
+		font-size: small;
+		margin-top: 10%;
+		margin-left: 10%;
+	}
+	#bottom {
+		position: fixed;
+		height: 7%;
+		padding-top: 10px;
+		padding-left: 30px;
+		margin-top: 29%;
+		bottom: 0:;
+		font-size: x-small;
+	}
+}
