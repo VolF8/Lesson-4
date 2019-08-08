@@ -8,7 +8,7 @@
 	}
 	#mid{
 		width: 90%;
-		height: 60%;
+		height: 40%;
 		margin-left: 5%;
 		margin-right: 5%;
 	}
@@ -16,10 +16,10 @@
 		font-size: x-large;
 		margin-left: 10%;
 	}
-	p {
+	#adaptation {
 		font-size: small;
-		margin-left: 11%;
-		margin-top: 50px;
+		margin-left: 17%;
+		padding-top: 60px;
 	}
 	#button {
 		width: 120px;
@@ -27,7 +27,7 @@
 		padding: 5px 10px;
 		font-size: small;
 		margin-top: 10%;
-		margin-left: 10%;
+		margin-left: 17%;
 	}
 	#bottom {
 		position: fixed;
