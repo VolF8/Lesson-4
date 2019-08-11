@@ -1,0 +1,32 @@
+@media (max-width: 375px){
+	body,html {
+		padding: 0;
+		margin: 0;
+	}
+	#top2 {
+		display: none;
+	}
+	#bottom1 {
+		display: none;
+	}
+	#bottom2 {
+		display: none;
+	}
+	#top1 {
+		width: 375px;
+		height: 400px;
+		margin-top: 400px;
+	}
+	#center {
+		width: 375px;
+		height: 100px;
+		margin-top: 0;
+	}
+	#bottom3 {
+		margin-top: 20px;
+		width: 375px;
+		height: 100px;
+		margin-left: 0;
+	}
+	
+}
