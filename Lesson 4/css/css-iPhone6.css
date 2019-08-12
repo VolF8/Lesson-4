@@ -1,0 +1,43 @@
+@import url(css-iPad.css);
+@media (max-width: 375px){
+	body,html {
+		position: absolute;
+		padding: 0;
+		margin: 0;
+	}
+	.top2 {
+		display: none;
+	}
+	.bottom1 {
+		display: none;
+	}
+	#bottom2 {
+		display: none;
+	}
+	.top1 {
+		width: 375px;
+		height: 417px;
+		margin-top: 250px;
+	}
+	#center {
+		width: 375px;
+		height: 100px;
+		margin-top: 0;
+	}
+	.bottom3 {
+		margin-top: 125px;
+		width: 375px;
+		height: 100px;
+		margin-left: 0;
+	}
+	.stroki {
+		font-size: large;
+	}
+	.setki {
+		font-size: small;
+		padding: 2%;
+	}
+	.otstup {
+		padding: 1%;
+	}	
+}
